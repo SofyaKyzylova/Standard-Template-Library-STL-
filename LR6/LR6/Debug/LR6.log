@@ -1,0 +1,12 @@
+﻿  LR6.cpp
+C:\Users\Sofja\Desktop\VS projects\c++\ООП\LR6\LR6\Header.h(14,46): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\Sofja\Desktop\VS projects\c++\ООП\LR6\LR6\Header.h(85,12): warning C4305: =: усечение из "double" в "float"
+C:\Users\Sofja\Desktop\VS projects\c++\ООП\LR6\LR6\LR6.cpp(32,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Sofja\Desktop\VS projects\c++\ООП\LR6\LR6\LR6.cpp(166,37): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Sofja\Desktop\VS projects\c++\ООП\LR6\LR6\LR6.cpp(168,35): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Sofja\Desktop\VS projects\c++\ООП\LR6\LR6\LR6.cpp(169,36): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Sofja\Desktop\VS projects\c++\ООП\LR6\LR6\LR6.cpp(188,6): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Sofja\Desktop\VS projects\c++\ООП\LR6\LR6\LR6.cpp(197,12): warning C4244: аргумент: преобразование "int" в "const float", возможна потеря данных
+C:\Users\Sofja\Desktop\VS projects\c++\ООП\LR6\LR6\LR6.cpp(206,6): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Sofja\Desktop\VS projects\c++\ООП\LR6\LR6\LR6.cpp(206,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  LR6.vcxproj -> C:\Users\Sofja\Desktop\VS projects\c++\ООП\LR6\Debug\LR6.exe
